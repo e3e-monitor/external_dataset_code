@@ -1,0 +1,8 @@
+{
+  "kobane": {
+    "properties": {
+      "timestamp": { "type":"date"},
+      "location": { "type": "geo_point" }
+    }
+  }
+}
